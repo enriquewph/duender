@@ -1,1 +1,5 @@
 Duender_Project.step
+*.sldprt
+*.SLDPRT
+*.sldasm
+*.SLDASM
